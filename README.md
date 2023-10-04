@@ -1,7 +1,5 @@
 # Twogood Clone
 
-![Project Screenshot](./screenshot.png)
-
 A responsive clone of [Twogood](https://twogood.com.au/) created using HTML, CSS, JavaScript, GSAP, ScrollTrigger, and Locomotive.
 
 ## Table of Contents
@@ -15,7 +13,7 @@ A responsive clone of [Twogood](https://twogood.com.au/) created using HTML, CSS
 
 ## Demo
 
-You can try out the Twogood Clone live [here](#insert-live-demo-link-here).
+You can try out the Twogood Clone live [here](https://jain-rithik.github.io/Two-Good-Co/).
 
 ## Features
 
