@@ -166,11 +166,9 @@ body {
 
 #page2 .elem .dets{
     position: absolute;
-    /* transform: translate(-50%,-50%); */
-    transform: translate(-50%, -50%) translate(-0.18px, 34.54px);
+    /* transform: translate(-50%, -50%) ; */
     will-change: transform;
     opacity: 1;
-
 }
 
 #page2 .elem .dets .dets-info{
@@ -562,10 +560,6 @@ body {
         /* background-color: red; */
         overflow: hidden;
         margin-bottom: 3vw;
-    }
-
-    #page2 .elem .dets {
-        height: 40px;
     }
 
     #moto {
